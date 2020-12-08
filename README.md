@@ -16,4 +16,6 @@ Hi, I'm Ye Chan. I'm developing to make services that will improve our lives.
 -->
 
 <!--VELOG:START-->
+- [GitHub 프로필을 꾸며보세요!](https://velog.io/@kyechan99/GitHub-%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%84-%EA%BE%B8%EB%A9%B0%EB%B3%B4%EC%84%B8%EC%9A%94)
+
 <!--VELOG:END-->
